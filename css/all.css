@@ -116,3 +116,15 @@ img {
     width: 33.3%;
   }
 }
+
+@media screen and (max-width: 991px) {
+  .left-section {
+    display:none;
+  }
+  .right-section {
+    width: 100%;
+}
+  .grid-item {
+    width: 50%;
+  }
+}
