@@ -60,7 +60,7 @@ $(".grid").imagesLoaded(
       // 子元素轉場錯開時間，單位毫秒
       stagger: 0,
       isAnimated: true,
-      gutter: 10
+      // gutter: 10
     });
   });
 
