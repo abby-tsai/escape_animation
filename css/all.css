@@ -126,7 +126,7 @@ img {
     padding:0;
 }
   .grid-item {
-    width: 50%;
+    width: calc(50% - 10px);
     padding:5px;
   }
 }
